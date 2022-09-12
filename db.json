@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Tablet",
+      "category": "electronics",
+      "freshness": "Second hand",
+      "price": 2000,
+      "comment": "very new phone",
+      "date": "2022-09-26T19:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
